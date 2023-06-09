@@ -31,7 +31,7 @@ Program to create an Option Menu
 Developed by: M.Gunasekhar
 RegisterNumber:212221240014
 */
-```
+
 
 ## MainActivity.java:
 package com.example.threadsyn;
@@ -197,6 +197,7 @@ public class MainActivity extends AppCompatActivity {
 
 </manifest>
 ```
+
 ### Output
 
 ![image](https://github.com/gunasekhar159/Ex_No_11_Thread-Synchronization/assets/95043391/045f7eaa-cd9f-4576-84be-bed2d1fa228e)
