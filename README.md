@@ -198,6 +198,7 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ### Output
+
 ![image](https://github.com/gunasekhar159/Ex_No_11_Thread-Synchronization/assets/95043391/045f7eaa-cd9f-4576-84be-bed2d1fa228e)
 
 ![image](https://github.com/gunasekhar159/Ex_No_11_Thread-Synchronization/assets/95043391/14a22d59-0736-4f8d-93a9-bca0fa270a07)
